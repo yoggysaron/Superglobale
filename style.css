@@ -1,0 +1,22 @@
+* {
+
+	color: green;
+}
+
+span {
+
+	text-decoration: underline;
+	font-weight: bold; 
+	color: red;
+}
+
+a {
+
+	text-decoration: none; 
+	color: blue;
+}
+
+form {
+
+	border: 1px solid black;
+}
